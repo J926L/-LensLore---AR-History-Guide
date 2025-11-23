@@ -1,0 +1,8 @@
+{
+  "name": "LensLore - AR History Guide",
+  "description": "Snap a photo of any landmark to instantly hear its history and secrets using AI vision, search grounding, and speech generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
